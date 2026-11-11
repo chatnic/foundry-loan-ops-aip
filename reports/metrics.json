@@ -1,0 +1,18 @@
+{
+  "as_of": "2026-10-16",
+  "applications": 5000,
+  "in_review": 511,
+  "ready_to_decide": 87,
+  "needs_attention": 424,
+  "open_exceptions": 835,
+  "sla_breached": 129,
+  "share_needing_borrower_contact": 0.22896281800391388,
+  "top_exceptions": {
+    "document_pending_review": 209,
+    "dti_above_limit": 148,
+    "missing_document": 120,
+    "credit_score_below_min": 79,
+    "document_rejected": 74
+  },
+  "median_days_to_decision": 4.1
+}

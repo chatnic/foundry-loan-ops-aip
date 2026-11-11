@@ -1,0 +1,13 @@
+exception_type,severity,open_exceptions
+document_pending_review,low,209
+dti_above_limit,high,148
+missing_document,medium,120
+credit_score_below_min,high,79
+document_rejected,medium,74
+income_fraud_review,high,56
+above_underwriter_authority,low,51
+expired_id,high,39
+income_discrepancy,medium,27
+ltv_above_limit,medium,19
+loan_to_income_above_limit,medium,7
+business_tenure_below_min,high,6

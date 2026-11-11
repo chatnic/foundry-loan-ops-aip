@@ -1,0 +1,13 @@
+assigned_underwriter_id,open_applications,needs_attention,sla_breached,oldest_days,name,team,daily_capacity,days_of_backlog
+UW01,72,62,9,57.5,Avery Alvarez,Consumer,19,3.8
+UW02,73,56,21,71.1,Jordan Huang,Consumer,27,2.7
+UW03,50,42,19,70.7,Riley Owens,Consumer,25,2.0
+UW04,58,46,16,43.3,Morgan Brooks,Consumer,23,2.5
+UW05,64,54,12,46.8,Casey Iverson,Consumer,23,2.8
+UW06,58,42,14,59.2,Taylor Patel,Consumer,28,2.1
+UW07,63,51,17,67.6,Quinn Chen,Consumer,19,3.3
+UW08,20,20,6,43.1,Reese Jensen,Small Business,26,0.8
+UW09,15,14,4,18.2,Skyler Quintero,Small Business,20,0.8
+UW10,12,12,2,13.1,Drew Dawson,Small Business,19,0.6
+UW11,12,12,6,62.4,Jamie Kim,Small Business,24,0.5
+UW12,14,13,3,11.5,Rowan Russo,Small Business,29,0.5
